@@ -1,2 +1,2 @@
 # flutter-projects
-app developed with flutter
+apps developed with flutter
